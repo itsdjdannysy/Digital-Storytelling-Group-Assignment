@@ -1,6 +1,6 @@
 # Lesson: Digital Storytelling
 # Presentation Document
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
+### First and Last Name: Daniel Syropoulos, William Tsanakis
+### University Registration Number: dpsd19124, dpsd18119
 ### GitHub Personal Profile: xxx
