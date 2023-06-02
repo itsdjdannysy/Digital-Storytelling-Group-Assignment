@@ -1,6 +1,6 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
 
-### First and Last Name: xxx (all members of the team)
+### First and Last Name: Daniel Siropoulos, Vasileios Tsanakis
 ### University Registration Number: dpsdxxxxx (all members of the team)
 ### GitHub Personal Profile: xxx
