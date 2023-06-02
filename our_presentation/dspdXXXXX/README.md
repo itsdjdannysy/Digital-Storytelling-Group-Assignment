@@ -1,1 +1,1 @@
-In this folder you can find a presentation example
+Εδώ βρίσκεται το αρχείο της παρουσίασης μας. 
